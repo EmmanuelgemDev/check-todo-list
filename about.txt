@@ -4,3 +4,4 @@ study books
 Attend classes on time
 go to church
 Apply  for remote job
+practice code
